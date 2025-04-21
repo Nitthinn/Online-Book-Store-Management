@@ -154,10 +154,3 @@ A user-friendly Online Bookstore project in which users can log in or register, 
    
 ---
 
- ## 📞 Contact Information
-
-  🐙 GitHub: https://github.com/pratikkhot100
-
-  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
-
-  📧 Email: pratikkhot1207@gmail.com
